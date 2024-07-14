@@ -1,3 +1,3 @@
 # FreesmTeam 🆓
 
-just two FOSS enthusiasts wanted to made something 
+just two FOSS enthusiasts wanted to make something 
